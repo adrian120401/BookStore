@@ -1,0 +1,24 @@
+.listaLibros{
+    text-align: center;
+    margin: 10px;
+    max-width: 200px;
+}
+.listaLibros p{
+    font-weight: bold;
+    text-align: center;
+}
+.container{
+    display: flex;
+    align-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.portada{
+    height: 250px;
+    width: 200px;
+    border-radius: 10%;}
+
+.title{
+    text-align: center;
+}
+

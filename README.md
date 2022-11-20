@@ -1,0 +1,3 @@
+El planteo de la pagina es crear un ecommerce desde cero, utilizando una api publica de libros, el primer paso es crear la vista de los libros, la pagina en general(headers, footers , barra para filtros, etc), y luego poder crear la funcionalidades para hacer filtros por categoria,etc. Aca llega la primera duda de si traer toda la lista de libros y filtrarla, o utilizar los metodos de la api, la primera opcion permitiria agregar un buscador por texto.
+
+La idea del libro es que al clickearlo te lleve a su pagina principal con sus datos en totalidad, y que al apretar comprar te lleve a un chat de whatsapp
